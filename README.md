@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anakin0908
-- 👀 I’m interested in (https://github.com/elim322)[@elim322]
-- 🌱 I’m currently learning how to love (https://github.com/westoncolemanl)[@westoncolemanl]
-- 💞️ I’m looking to collaborate on the intersection of UX and people with (https://github.com/aditya10)[@aditya10]
+- 👀 I’m interested in [@elim322](https://github.com/elim322)
+- 🌱 I’m currently learning how to love [@westoncolemanl](https://github.com/westoncolemanl)
+- 💞️ I’m looking to collaborate on the intersection of UX and people with [@aditya10](https://github.com/aditya10)
 - 📫 How to reach me -- follow your heart til it reaches mine. xoxo
